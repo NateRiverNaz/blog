@@ -1,1 +1,1 @@
-alert('Hello, world');
+alert('猪猪，你好！');
